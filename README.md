@@ -13,9 +13,16 @@ The system combines a minimal optomechanical setup, high-speed embedded data acq
 
 ## 📊 Experimental Results & Visuals
 
-| Experimental Transfer Function $H(f)$ | Real-Time Oscilloscope & FFT Monitor |
-| :---: | :---: |
-| ![Transfer Function](docs/transfer_function.png) | ![Live FFT](docs/live_fft_monitor.png) |
+<table>
+  <tr>
+    <th align="center">Experimental Transfer Function <i>H(f)</i></th>
+    <th align="center">Real-Time Oscilloscope & FFT Monitor</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/transfer_function.png" height="320"></td>
+    <td align="center"><img src="docs/live_fft_monitor.png" height="320"></td>
+  </tr>
+</table>
 
 ---
 
